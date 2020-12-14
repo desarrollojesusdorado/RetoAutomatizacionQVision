@@ -25,7 +25,7 @@ Para la evaluación se tendrán en cuenta:
 •	Que se dé solución al problema propuesto en el enunciado
 •	Generación del reporte de resultados de Serenity
 
-#Ejecucion del proyecto
+# Ejecución del Proyecto
 
 1. Realice la clocacion del proyecto desde la siguiente pagina:
 
